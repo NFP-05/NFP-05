@@ -10,7 +10,7 @@ Most of the repositories here are learning projects, experiments, and case studi
 
 ---
 
-Undergraduate Students at Sebelas Maret University
+🎓 Undergraduate Students at Sebelas Maret University
 
 ---
 
