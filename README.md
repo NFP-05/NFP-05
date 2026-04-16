@@ -8,15 +8,11 @@ Most of the repositories here are learning projects, experiments, and case studi
 
 ## 🚀 About Me
 
-🎓 Undergraduate Students at Sebelas Maret University
-
----
-
+- 🎓 Undergraduate Students at Sebelas Maret University (UNS)
 - 📊 Passionate about turning data into insights and actionable solutions.
-- 🤖 Exploring machine learning models and their applications in real-world problems.
 - 📚 Lifelong learner — I use this GitHub as a notebook of my progress.
-- 🌍 Based in Indonesia.
-
+- 🤖 Exploring machine learning models and their applications in real-world problems.
+  
 ---
 
 ## 🛠️ Skills & Tools
@@ -35,7 +31,6 @@ Most of the repositories here are learning projects, experiments, and case studi
 ---
 
 ## 🎯 Goals
-- Build reproducible workflows for data projects.
 - Document my growth in data science and machine learning.  
 
 ---
