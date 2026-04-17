@@ -8,7 +8,7 @@ Most of the repositories here are learning projects, experiments, and case studi
 
 ## 🚀 About Me
 
-- 🎓 Undergraduate Students at Sebelas Maret University (UNS)
+- 🎓 Undergraduate Statistics Students at Sebelas Maret University (UNS)
 - 📊 Passionate about turning data into insights and actionable solutions.
 - 📚 Lifelong learner — I use this GitHub as a notebook of my progress.
 - 🤖 Exploring machine learning models and their applications in real-world problems.
