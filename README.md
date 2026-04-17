@@ -27,7 +27,7 @@ Most of the repositories here are learning projects, experiments, and case studi
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naufal-fadhillah-pellu-302634287/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naufal-fadhillah-pellu-302634287/)
 
 ---
 
