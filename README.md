@@ -11,14 +11,7 @@ Most of the repositories here are learning projects, experiments, and case studi
 - 🎓 Undergraduate Statistics Students at Sebelas Maret University (UNS)
 - 📊 Passionate about turning data into insights and actionable solutions.
 - 📚 Lifelong learner — I use this GitHub as a notebook of my progress.
-- 🤖 Exploring machine learning models and their applications in real-world problems.
-
----
-
-## 📂 Repository Highlights
-- 🧪 **Data Science Projects**: Exploratory Data Analysis, hypothesis testing, feature engineering.  
-- 🤖 **Machine Learning Models**: Classification, regression, clustering, model evaluation.  
-- 📈 **Dashboards**: Interactive tools for prediction and reporting.  
+- 🤖 Exploring machine learning models and their applications in real-world problems.  
 
 ---
 
